@@ -1,2 +1,1 @@
-# amorspem.io
-master
+# AM

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2020/12/09/hello-world/"/>
+    <url>/2020/12/09/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>about</title>
+    <link href="/2020/02/23/%E6%A8%A1%E5%9E%8B%E5%91%BD%E5%90%8D%E8%A7%84%E8%8C%83%E5%BB%BA%E8%AE%AE/"/>
+    <url>/2020/02/23/%E6%A8%A1%E5%9E%8B%E5%91%BD%E5%90%8D%E8%A7%84%E8%8C%83%E5%BB%BA%E8%AE%AE/</url>
+    
+    <content type="html"><![CDATA[<h2 id="模型命名规范建议"><a href="#模型命名规范建议" class="headerlink" title="模型命名规范建议"></a>模型命名规范建议</h2><h4 id="命名基本规制"><a href="#命名基本规制" class="headerlink" title="命名基本规制"></a>命名基本规制</h4><p>名称分为 4 个字段，前 3 段是必备字段，必须存在。</p><p>所有名称在最初已经设定完毕，不允许自行进行修改。<br>如有增添或删减或者修改尺寸的需求，务必首先同步到表格，通知各个阶段负责人，对所有阶段的所有模型进行统一的修改。</p><h4 id="例如"><a href="#例如" class="headerlink" title="例如"></a>例如</h4><p>英文名称 + 模型编号 + 备注</p><p>curtain_002_r</p><p>字段中间用下划线连接 _ (在英文状态下同时按 shift 和减号键)</p><ul><li>英文名称：名称中只允许存在小写字母，允许存在组合名称，用下划线组合，禁止使用空格组合。原则上名称不易过长。</li><li>模型编号，模型编号按同一空间内的同一种类物品</li></ul><p>事实上还有很大的问题，目前编号的意义几乎没有，整体文件名称过于长，没什么必要</p><p>优化方式，</p><p>房间代号 + 模型缩写 + 长宽高 + 尺寸(单位/米) + 备注</p><p>客厅 living room</p><p>餐厅 dining room</p><p>玄关 vestibule</p><p>卫生间 washroom</p><p>卧室 bedroom</p><p>书房 study</p><p>阳台 balcony</p><ol start="0"><li>通用模型</li><li>玄关</li><li>过道</li><li>客厅</li><li>餐厅</li><li>厨房</li><li>主卧</li><li>次卧</li><li>儿童房</li><li>书房</li><li>卫生间</li><li>阳台</li><li>飘窗</li><li>临时测试</li></ol>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
